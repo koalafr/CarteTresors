@@ -1,0 +1,12 @@
+{
+  "name": "cartetresors",
+  "version": "1.0.0",
+  "description": "CarteTresors is a small game where adventurers race through Peru to find treasures",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js",
+    "test": "node ./test.js"
+  },
+  "author": "Alex K",
+  "license": "MIT"
+}
